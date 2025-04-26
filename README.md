@@ -77,14 +77,16 @@ This project presents an end-to-end machine learning workflow for analyzing and 
 ## 📊 Visualizations
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](/correlation_heatmap.png)
 
 ### Log-Scale: Population vs Total CO₂
-![Log Population vs CO₂](images/log_population_vs_co2.png)
+![Log Population vs CO₂](/image.png)
 
 ### Colored by Renewable Energy (%)
-![Color by Renewable Energy](images/color_by_renewables.png)
+![Color by Renewable Energy](/renewable_energy_co2.png)
 
+### Model's predicted values vs actual values
+![predicted vs actual](/model_prediction_results.png)
 ---
 
 ## 🧾 Key Conclusions
@@ -105,5 +107,4 @@ This project presents an end-to-end machine learning workflow for analyzing and 
 - Scikit-learn
 - Category Encoders
 
----
 
